@@ -1,8 +1,5 @@
 # coco-multimodal-retrieval
 
-By Team 17
-Saroj Pandit (202418048), Sanganbasava Math (202418047)
-
 A Colab-friendly demo of **multimodal image–text retrieval** and **generation** on the COCO dataset using:
 
 - **CLIP** for image/text embeddings  
